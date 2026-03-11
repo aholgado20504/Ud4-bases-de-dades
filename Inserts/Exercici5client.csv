@@ -1,0 +1,6 @@
+id,DNI,Nom,Cognoms,Direccio,Telefon,Poblacio,Email,Usuari,Contrasenya
+1,12345678A,Joan,"Serra Pujol","C/ Tallers 10",600111111,Barcelona,joan@example.com,joan123,pass123
+2,23456789B,Marta,"Riera Casals","Av. Garbí 21",600222222,Mataró,marta@example.com,martaRC,secret1
+3,34567890C,Pere,"Garcia Puig","C/ Major 5",600333333,Girona,pere@example.com,pereGP,clauP
+4,45678901D,Anna,"Soler Riba","Pg. Marítim 12",600444444,Tarragona,anna@example.com,annaSR,pwdAnna
+5,56789012E,Laura,"Martí Serra","C/ Ciutat 7",600555555,Lleida,laura@example.com,lauraMS,laura1

@@ -1,0 +1,6 @@
+id,Nom,Cognoms,DNI,Direccio,Telefon,Email
+1,Laura,"Martí Garcia",X1234567A,"C/ Viatges 1, BCN",600111111,laura@example.com
+2,Pere,"Garcia Puig",Y2345678B,"C/ Major 5, GIR",600222222,pere@example.com
+3,Anna,"Soler Riba",Z3456789C,"Av. Mar 10, TAR",600333333,anna@example.com
+4,Joan,"Serra Pujol",W4567890D,"C/ Tallers 20, LLD",600444444,joan@example.com
+5,Marta,"Riera Casals",V5678901E,"Pg. Pau 15, BCN",600555555,marta@example.com

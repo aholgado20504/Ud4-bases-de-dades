@@ -1,0 +1,6 @@
+id,Nom,Descripcio,PreuUnitari,Quantitat,IVA,CodiBarres,PVP
+1,"Cafè 1kg","Cafè en gra",10,1kg,21,1234567890123,12.10
+2,"Llet 1L","Llet sencera",1,1L,10,2345678901234,1.10
+3,"Pa barra","Pa blanc",0,250g,4,3456789012345,0.50
+4,Galetes,"Galetes de xocolata",2,200g,21,4567890123456,2.42
+5,"Suc taronja","Suc 1L",2,1L,10,5678901234567,2.20

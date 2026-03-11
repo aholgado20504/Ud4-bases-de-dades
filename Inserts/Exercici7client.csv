@@ -1,0 +1,6 @@
+id,DNI,Nom,Cognoms,Direccio,Telefon,Email
+1,12345678A,Joan,"Serra Pujol","C/ Tallers 10",600111111,joan@example.com
+2,23456789B,Marta,"Riera Casals","Av. Garbí 21",600222222,marta@example.com
+3,34567890C,Pere,"Garcia Puig","C/ Major 5",600333333,pere@example.com
+4,45678901D,Anna,"Soler Riba","Pg. Marítim 12",600444444,anna@example.com
+5,56789012E,Laura,"Martí Serra","C/ Ciutat 7",600555555,laura@example.com
